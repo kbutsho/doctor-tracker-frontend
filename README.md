@@ -1,5 +1,10 @@
 # Doctor Tracker – Frontend
 
+## Live Demo
+
+- **Frontend:** https://kaushik-doctor-tracker.vercel.app
+- **Backend:** https://doctor-tracker-backend-ws6t.onrender.com
+
 ## Description
 
 Doctor Tracker is a secure admin portal for hospitals and clinics to manage doctors and their patients in one place. Authenticated admins can create and edit doctors, add or remove patients under a specific doctor, search, filter and paginate large lists, and watch live analytics (totals, patients per doctor, registrations over time, condition and specialization breakdowns) on a clean, responsive dashboard. This repository is the **Next.js client**; it talks to the standalone Express + MongoDB API (`doctor-tracker-backend`) over REST.
