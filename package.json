@@ -1,0 +1,22 @@
+{
+  "name": "doctor-tracker-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.51.0",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "lucide-react": "^0.424.0",
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.52.1",
+    "react-hot-toast": "^2.4.1",
+    "recharts": "^2.12.7"
+  }
+}
